@@ -20,8 +20,10 @@ Any uses of the workbooks and/or data must include the above attribution (that i
 
 By clicking any of the links to download the files, you are agreeing to the terms above.
 
-###Important
+### Important
 
 All the data you need for this course is provided in this course. Y
 
-[Reference](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI)
+### Reference:
+1. https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI      
+2. https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+1T2020/course/

@@ -28,10 +28,10 @@ VanArsdel's US office stores the sales data on an Access database. You will need
 18. In the **Any Column** group, select **Data Type** and select **Date**.
 19. Click the drop-down button at the top of the **Date** column.
 20. Click **Date Filters** and click **After**.
-21. In the first Enter or select a value field, type 12/31/1999 if you are using DD/MM/YYYY dates and 31/12/1999 if you are using DD/MM/YYYY dates and click OK.
+21. In the first Enter or select a value field, type **12/31/1999** if you are using DD/MM/YYYY dates and **31/12/1999** if you are using DD/MM/YYYY dates and click **OK**.
 22. Rename the queries as follows:
-- In Queries, right click bi_date, click Rename, replace the text with Date, and press Enter.
-- In Queries, right click bi_geo, click Rename, replace the text with Locations, and press Enter.
+- In **Queries**, right click **bi_date**, click **Rename**, replace the text with **Date**, and press **Enter**.
+- In **Queries**, right click bi_geo, click Rename, replace the text with Locations, and press Enter.
 - In Queries, right click bi_manufacturer, click Rename, replace the text with Manufacturers, and press Enter.
 - In Queries, right click bi_product, click Rename, replace the text with Products, and press Enter.
 - In Queries, right click bi_salesFact, click Rename, replace the text with Sales, and press Enter.

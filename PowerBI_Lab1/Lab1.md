@@ -14,20 +14,20 @@ VanArsdel's US office stores the sales data on an Access database. You will need
 4. Click **Get data**.
 5. Click **Access database**, and click **Connect**.
 6. Navigate to **C:\DAT207x**, click **PowerBI.accdb**, and click **Open**.
-7. Select **bi_date**, **bi_geo**, **bi_manufacturer**, **bi_product, and bi_salesFact and click Edit.
-8. In Queries, select bi_salesFact.
-9. Select the Date column.
-10. Click the Transform ribbon.
-11. In the Any Column group, select Data Type and select Date.
-12. Click the drop-down button at the top of the Date column.
-13. Click Date Filters and click After.
-14. In the first Enter or select a value field, type 12/31/1999 if you are using DD/MM/YYYY dates and 31/12/1999 if you are using DD/MM/YYYY dates and click OK.
-15. In Queries, select bi_Date.
-16. Select the Date column.
-17. Click the Transform ribbon.
-18. In the Any Column group, select Data Type and select Date.
-19. Click the drop-down button at the top of the Date column.
-20. Click Date Filters and click After.
+7. Select **bi_date**, **bi_geo**, **bi_manufacturer**, **bi_product**, and **bi_salesFact** and click **Edit**.
+8. In **Queries**, select **bi_salesFact**.
+9. Select the **Date** column.
+10. Click the **Transform** ribbon.
+11. In the **Any Column** group, select **Data Type** and select **Date**.
+12. Click the drop-down button at the top of the **Date** column.
+13. Click **Date Filters** and click **After**.
+14. In the first **Enter or select a value** field, type **12/31/1999** if you are using DD/MM/YYYY dates and **31/12/1999** if you are using DD/MM/YYYY dates and click **OK**.
+15. In **Queries**, select **bi_Date**.
+16. Select the **Date** column.
+17. Click the **Transform** ribbon.
+18. In the **Any Column** group, select **Data Type** and select **Date**.
+19. Click the drop-down button at the top of the **Date** column.
+20. Click **Date Filters** and click **After**.
 21. In the first Enter or select a value field, type 12/31/1999 if you are using DD/MM/YYYY dates and 31/12/1999 if you are using DD/MM/YYYY dates and click OK.
 22. Rename the queries as follows:
 - In Queries, right click bi_date, click Rename, replace the text with Date, and press Enter.
